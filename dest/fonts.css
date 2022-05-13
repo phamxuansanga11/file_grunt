@@ -1,0 +1,193 @@
+/* FONT FACE - font-display: fallback; */
+
+/* VÍ DỤ - tuỳ chỉnh theo từng dự án*/
+
+/* @font-face {
+    font-family: "ir";
+    src: url("../fonts/Inter-Regular.woff2") format("woff2"), url("../fonts/Inter-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "im";
+    src: url("../fonts/Inter-Medium.woff2") format("woff2"), url("../fonts/Inter-Medium.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "ib";
+    src: url("../fonts/Inter-Bold.woff2") format("woff2"), url("../fonts/Inter-Bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+} */
+
+@font-face {
+    font-family: "mb";
+    src: url("../fonts/Muli-Black.ttf");
+}
+
+@font-face {
+    font-family: "mbItalic";
+    src: url("../fonts/Muli-BlackItalic.ttf");
+}
+
+@font-face {
+    font-family: "mbBold";
+    src: url("../fonts/Muli-Bold.ttf");
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "mbBoldItalic";
+    src: url("../fonts/Muli-BoldItalic.ttf");
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "mExtraBold";
+    src: url("../fonts/Muli-ExtraBold.ttf");
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "mExtraBoldItalic";
+    src: url("../fonts/Muli-ExtraBoldItalic.ttf");
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "mExtraLight";
+    src: url("../fonts/Muli-ExtraLight.ttf");
+}
+
+@font-face {
+    font-family: "mExtraLightItalic";
+    src: url("../fonts/Muli-ExtraLightItalic.ttf");
+}
+
+@font-face {
+    font-family: "mutiItalic";
+    src: url("../fonts/Muli-Italic.ttf");
+}
+
+@font-face {
+    font-family: "mutiLight";
+    src: url("../fonts/Muli-Light.ttf");
+}
+
+@font-face {
+    font-family: "mutiLightItalic";
+    src: url("../fonts/Muli-LightItalic.ttf");
+}
+
+@font-face {
+    font-family: "mutiRegular";
+    src: url("../fonts/Muli-Regular.ttf");
+}
+
+@font-face {
+    font-family: "mutiSemiBold";
+    src: url("../fonts/Muli-SemiBold.ttf");
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "mutiSemiBoldItalic";
+    src: url("../fonts/Muli-SemiBoldItalic.ttf");
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "PDBlack";
+    src: url("../fonts/PlayfairDisplay-Black.ttf");
+}
+
+@font-face {
+    font-family: "PDBlackItalic";
+    src: url("../fonts/PlayfairDisplay-BlackItalic.ttf");
+}
+
+@font-face {
+    font-family: "PDBlackBold";
+    src: url("../fonts/PlayfairDisplay-Bold.ttf");
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "PDBlackBoldItalic";
+    src: url("../fonts/PlayfairDisplay-BoldItalic.ttf");
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "PDBlackExtraBold";
+    src: url("../fonts/PlayfairDisplay-ExtraBold.ttf");
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "PDBlackExtraBoldItalic";
+    src: url("../fonts/PlayfairDisplay-ExtraBoldItalic.ttf");
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "PDItalic";
+    src: url("../fonts/PlayfairDisplay-Italic.ttf");
+}
+
+@font-face {
+    font-family: "PDMedium";
+    src: url("../fonts/PlayfairDisplay-Medium.ttf");
+}
+
+@font-face {
+    font-family: "PDMediumItalic";
+    src: url("../fonts/PlayfairDisplay-MediumItalic.ttf");
+}
+
+@font-face {
+    font-family: "PDRegular";
+    src: url("../fonts/PlayfairDisplay-Regular.ttf");
+}
+
+@font-face {
+    font-family: "PDSemiBold";
+    src: url("../fonts/PlayfairDisplay-SemiBold.ttf");
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: "PDSemiBoldItalic";
+    src: url("../fonts/PlayfairDisplay-SemiBoldItalic.ttf");
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
