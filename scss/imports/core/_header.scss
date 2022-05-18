@@ -1,0 +1,56 @@
+// css header
+header {
+  position: fixed;
+  width: 100%;
+  height: var(--height-header);
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 2px 6px 0px #ccc;
+  box-shadow: 0px 2px 6px 0px #ccc;
+  z-index: 100;
+  .container {
+    .main__header {
+      display: flex;
+      align-items: center;
+      height: var(--height-header);
+      .main__header-logo {
+        display: flex;
+      }
+      .main__header-menu {
+        margin-left: 195px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+      }
+      .main__header-menu-list {
+        display: flex;
+        li {
+          padding: 0 10px;
+          display: flex;
+          a {
+            color: #000;
+            margin: auto;
+            font-family: "beRegular400";
+            font-size: 16px;
+            line-height: 20px;
+          }
+        }
+      }
+      .main__header-btn {
+        height: 48px;
+        width: 213px;
+        background-color: $blue-cl;
+        border-radius: 40px;
+        display: flex;
+        p {
+          margin: auto;
+          color: #ffffff;
+          font-family: "beRegular400";
+          font-size: 16px;
+          line-height: 20px;
+        }
+      }
+    }
+  }
+}
